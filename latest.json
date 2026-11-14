@@ -1,0 +1,11 @@
+{
+  "version": "1.2.2",
+  "notes": "Barra lateral alineada",
+  "pub_date": "2026-11-14T20:10:27.287Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTkpsbXVkZUo2dUJsd2d5ZU5yb1RnMnJPTXRyQSs4TysyYkZzaGZ2TUp0dWpUdlpTbWl1U1VrSjRvNnI0UjhBWnlmbmdOQ1ozbFdvTUg4bUZSRm1VTDdBTHNxZFV2cWdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0Njg2OTU1CWZpbGU6U3RvY2tfMS4yLjJfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMi4yCkFoR3duTEVOZm43ZVRQY2liVTlXSmZqMGJ6UjZ0QkZRWmoyVHNxRC9PUUFFOXI2OTJCSEMveXhuMlU3OGUyeVZ3MmtkcXBaWmJLTTRaMFhXKzRReUR3PT0K",
+      "url": "https://github.com/Marcos68-oss/sistema-stock-versiones/releases/download/v1.2.2/SistemaStock_1.2.2_x64-setup.exe"
+    }
+  }
+}
